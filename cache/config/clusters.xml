@@ -1,0 +1,30 @@
+<Clusters>
+    <Cluster cid="0" position="0"> 
+        <node>
+            <ip>
+                182.254.228.241
+            </ip>
+            <port>
+                7000
+            </port>
+        </node>
+        <node>
+            <ip>
+                182.254.228.241
+            </ip>
+            <port>
+                7001
+            </port>
+        </node>
+    </Cluster>
+    <Cluster cid="1" position="16"> 
+        <node>
+            <ip>
+                127.0.0.1
+            </ip>
+            <port>
+                7000
+            </port>
+        </node>
+    </Cluster>
+</Clusters>
